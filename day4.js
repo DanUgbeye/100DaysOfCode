@@ -14,7 +14,7 @@ const arr2 = [22.22, -34.12, 23, 44, 100.12];
 console.log(" Array1 = ", arr);
 console.log("Array1 Sum = ", sumOfArray(arr));
 
-console.log("\n");
+ console.log("");
 
 console.log(" Array2 = ", arr2);
 console.log("Array2 Sum = ", sumOfArray(arr2));

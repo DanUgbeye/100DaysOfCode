@@ -28,7 +28,7 @@ const array = [4, 3, 2, 1, 12, 66, 78, 15, 99, 67.3];
 console.log("Before: Array1 = ", array);
 console.log("After: Array1 = ", sortArray(array));
 
-console.log("\n");
+ console.log("");
 
 const array2 = [0.1, 2.3, 0.6, 9.6, 5.0];
 console.log("Before: Array2 = ", array2);

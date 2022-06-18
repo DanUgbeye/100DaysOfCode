@@ -24,7 +24,7 @@ const array = [12, 13, 14, 15, 16, 17];
 console.log("Before: Array1 = ", array);
 console.log("After: Array1 = ", reverseArray(array));
 
-console.log("\n");
+ console.log("");
 
 const array2 = [1, 2, 3];
 console.log("Before: Array2 = ", array2);

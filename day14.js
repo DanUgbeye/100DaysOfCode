@@ -1,4 +1,4 @@
-console.log("This function evaluates and awards points to users \n");
+console.log("This function takes in 2 arrays of ratings evaluates them and awards points \n");
 
 const awardPoints = (a, b) => {
   let points = [0, 0];
