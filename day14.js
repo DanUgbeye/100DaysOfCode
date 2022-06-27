@@ -1,6 +1,6 @@
 console.log("This function takes in 2 arrays of ratings evaluates them and awards points \n");
 
-const awardPoints = (a, b) => {
+const compareTriplets = (a, b) => {
   let points = [0, 0];
   for (let i = 0; i < a.length; i++) {
     if(a[i] < 1 || a[i] > 100) {
@@ -23,4 +23,4 @@ const P2 = [3, 4, 4, 1];
 console.log("Alice ratings: ", P1);
 console.log("Bob ratings: ", P2);
 
-console.log("Result: ", awardPoints(P1, P2));
+console.log("Result: ", compareTriplets(P1, P2));
